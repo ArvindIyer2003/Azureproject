@@ -1,0 +1,9 @@
+{
+	"name": "dfarvindazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75a3314d-51a4-48d1-85cf-4912709ff1a2",
+		"tenantId": "35c22f44-f5d7-473c-ac00-f72e2daebf58"
+	}
+}
